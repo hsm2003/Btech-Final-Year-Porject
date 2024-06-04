@@ -6,7 +6,8 @@ This project covers the entire customer churn prediction process, including data
   - Abhinaba Sarkar
   - Dipanjan Mahata
   - Uttam Soren
-  - Arnab Pal 
+  - Arnab Pal
+  - Himanshu Shekhar Mete
 ## 1. Introduction
 
 - `data link` : [HERE !](https://www.kaggle.com/datasets/vijaysrikanth/telecom-churn-data-set-for-the-south-asian-market)
